@@ -23,6 +23,15 @@
     text-align: left;
     letter-spacing: 0.02em;
 }
+img {
+    display: block;
+}
+
+.container {
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
 /*CommonHeaderfooter*/
 .logo {
     font-family: 'Raleway', sans-serif;
